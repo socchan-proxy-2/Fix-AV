@@ -1,0 +1,9 @@
+{
+  "$meta": {
+    "name": "Fix-AV",
+    "description": "Discord動画アップロード音声砂嵐修正プラグインリポジトリ"
+  },
+  "video-audio-fix": {
+    "version": "2.1.0"
+  }
+}
