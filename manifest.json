@@ -1,0 +1,13 @@
+{
+  "id": "video-audio-fix",
+  "name": "VideoAudioFix",
+  "description": "動画アップロード時に音声が砂嵐になるバグを修正。Discordの内部ビデオ圧縮をバイパスして音声劣化を防ぎます。",
+  "version": "2.1.0",
+  "authors": [
+    {
+      "name": "me",
+      "id": "0"
+    }
+  ],
+  "main": "index.js"
+}
