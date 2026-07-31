@@ -1,0 +1,7 @@
+{
+  "name": "StreamQualityFix",
+  "description": "配信中に画質が自動で下がる問題を修正。setGoliveQualityによるサーバー起因の品質劣化をブロックします。",
+  "authors": [{ "name": "me", "id": "0" }],
+  "main": "index.js",
+  "hash": "1.0.0"
+}
