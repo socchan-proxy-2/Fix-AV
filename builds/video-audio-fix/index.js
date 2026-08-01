@@ -40,7 +40,7 @@
             if (configMod) {
                 try {
                     if (configMod.DEFAULT_VIDEO_ENCODING_CONFIG) {
-                        configMod.DEFAULT_VIDEO_ENCODING_CONFIG.targetBitrate = 99000000;
+                        configMod.DEFAULT_VIDEO_ENCODING_CONFIG.targetBitrate = 1000000000;
                         patched++;
                     }
                     var VQT = configMod.VideoQualityTarget;
