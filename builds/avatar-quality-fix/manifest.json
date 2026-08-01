@@ -1,0 +1,7 @@
+{
+  "name": "AvatarQualityFix",
+  "description": "アバターアップロード時の画質劣化を修正。RNCImageCropPickerのデフォルト圧縮(~0.8)をバイパスしてlosslessでアップロードします。",
+  "authors": [{ "name": "me", "id": "0" }],
+  "main": "index.js",
+  "hash": "1.0.0"
+}
