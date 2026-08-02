@@ -1,0 +1,7 @@
+{
+  "name": "PerfFix",
+  "description": "Discord全体の重さを修正。Krisp NC/VAD無効化・Analytics間引き・RTC stats間隔延長・Sentry flush延長など可能な全最適化を適用します。",
+  "authors": [{ "name": "me", "id": "0" }],
+  "main": "index.js",
+  "hash": "1.0.0"
+}
